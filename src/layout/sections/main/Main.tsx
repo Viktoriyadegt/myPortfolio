@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from "styled-components";
-import myPhotoo from '../../assets/images/photojpg.webp'
-import {FlexWrapper} from "../../components/menu/FlexWtapper";
+import myPhotoo from '../../../assets/images/photojpg.webp'
+import {FlexWrapper} from "../../../components/FlexWtapper";
 
 export const Main = () => {
     return (
