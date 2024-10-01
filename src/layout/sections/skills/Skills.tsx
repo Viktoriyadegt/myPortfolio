@@ -17,9 +17,9 @@ export const Skills = () => {
                        descriptions={'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim'}/>
                 <Skill iconId={'react'} title={'React'}
                        descriptions={'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim'}/>
-                <Skill iconId={'TS'} title={'typescript'}
+                <Skill iconId={'ts'} title={'typescript'}
                        descriptions={'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim'}/>
-                <Skill iconId={'SC'} title={'styled components'}
+                <Skill iconId={'sts'} title={'styled components'}
                        descriptions={'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim'}/>
                 <Skill iconId={'figma'} title={'WEB DESIgN  '}
                        descriptions={'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim'}/>
