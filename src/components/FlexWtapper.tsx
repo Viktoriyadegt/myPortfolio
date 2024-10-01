@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 
-export type FlexWtapperPropsType = {
+export type FlexWrapperPropsType = {
     direction?: string
     align?: string
     justify?: string
@@ -9,10 +9,10 @@ export type FlexWtapperPropsType = {
 }
 
 
-export const FlexWrapper = styled.div<FlexWtapperPropsType>`
+export const FlexWrapper = styled.div<FlexWrapperPropsType>`
     display: flex;
-    flex-direction: ${props=>props.direction || 'row'}
     align-items: ${props=>props.align || 'stretch'};
+    flex-direction: ${props=>props.direction || 'row'};
     justify-content: ${props=>props.justify || 'flex-start'};
     flex-wrap : ${props=>props.wrap || 'nowrap'};
 `
