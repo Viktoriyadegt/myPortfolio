@@ -4,6 +4,7 @@ import {SectionTitle} from "../../../components/SectionTitle";
 import Icon from "../../../components/icon/Icon";
 import {Slider} from "../../../components/slider/Slider";
 import {FlexWrapper} from "../../../components/FlexWtapper";
+import {Button} from "../../../components/Button";
 
 export const Testimony = () => {
     return (
